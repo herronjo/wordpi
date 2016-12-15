@@ -20,5 +20,5 @@ var server = http.createServer(function(request, response) {
     console.log(keys.indexOf(key));
 });
 
-server.listen(8080);
-console.log("WordPI is running on port 8080");
+server.listen(80);
+console.log("WordPI is running on port 80");
