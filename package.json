@@ -1,0 +1,8 @@
+{
+  "name": "WordPI",
+  "version": "1.0.0",
+  "description": "The underlying API that Wordbot for Twitter uses.",
+  "main": "index.js",
+  "repository": "",
+  "author": "Joshua Herron <herronjo110@live.com>"
+}
