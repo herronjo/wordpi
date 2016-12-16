@@ -1,0 +1,3 @@
+language: Node.JS
+Node.JS:
+script: node server.js
